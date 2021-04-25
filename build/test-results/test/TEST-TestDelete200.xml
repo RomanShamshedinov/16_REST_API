@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestDelete200" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-25T20:12:08" hostname="DESKTOP-OCS5F7E" time="1.513">
+  <properties/>
+  <testcase name="testDelete()" classname="TestDelete200" time="1.513"/>
+  <system-out><![CDATA[Код состояния GET после DELETE: 404
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

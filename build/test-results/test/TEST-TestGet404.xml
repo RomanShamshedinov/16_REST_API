@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestGet404" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-25T20:12:11" hostname="DESKTOP-OCS5F7E" time="0.96">
+  <properties/>
+  <testcase name="testGet()" classname="TestGet404" time="0.96"/>
+  <system-out><![CDATA[Код состояния GET: 404
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
